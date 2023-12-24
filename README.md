@@ -1,4 +1,4 @@
-# mandalina_todo_app
+# mandalina_todo_app 🍊
 
 
 
